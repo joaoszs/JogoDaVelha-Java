@@ -1,6 +1,7 @@
 # 🎮 Jogo da Velha — Java
 
 Projeto de **Jogo da Velha desenvolvido em Java**, utilizando **Java Swing**, **matrizes**, **Programação Orientada a Objetos (POO)** e **integração com banco de dados**.
+
 <img width="505" height="210" alt="image" src="https://github.com/user-attachments/assets/7d4842c8-501e-4deb-bb6e-3ac0c09ddf62" />
 <img width="1042" height="460" alt="image" src="https://github.com/user-attachments/assets/a35c1f78-61e4-4c09-a046-9ae9984fbd47" />
 
